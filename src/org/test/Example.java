@@ -1,6 +1,10 @@
 package org.test;
 
 public class Example {
+	
+	private void m1() {
+		System.out.println("Arun ---- m1");
+	}
 
 	public static void main(String[] args) {
 
